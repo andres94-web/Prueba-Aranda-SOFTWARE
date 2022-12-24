@@ -7,7 +7,7 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: Monster Clubhouse;
+  src: local(Monster Clubhouse) url("./assets/fonts/Monster\ Clubhouse.ttf");
 }
