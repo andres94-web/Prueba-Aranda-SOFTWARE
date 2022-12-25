@@ -1,7 +1,9 @@
+import NavBar1 from "./components/NavBar1";
+
 function App() {
   return (
     <div>
-      funcionando
+      <NavBar1 />
     </div>
   );
 }
