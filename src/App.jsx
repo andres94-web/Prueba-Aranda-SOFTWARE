@@ -1,9 +1,9 @@
-import NavBar1 from "./components/NavBar1";
+import Contenedor from "./pages/Contenedor";
 
 function App() {
   return (
     <div>
-      <NavBar1 />
+      <Contenedor />
     </div>
   );
 }
